@@ -27,3 +27,13 @@ I am an Junior Frontend Developer with a strong interest in creating user-friend
 - Version Control: Git, GitHub
 - Development Tools: VS Code, Figma (basic)
 - Methodologies: BEM, responsive design, modular code structure
+
+========== 
+
+###Code Examples
+
+```
+function Greeting({ name }) {
+  return <h1>Hello, {name}!</h1>;
+}
+```
